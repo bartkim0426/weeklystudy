@@ -11,4 +11,4 @@
 - Week 6(지영) - Serializers / Renderer / Parser /
 - Week 7(준범)
 - Week 8(정욱) - Validators / deploy
-- Week 9(슬찬)
+- Week 9(슬찬) - Serializers
